@@ -46,7 +46,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'djongo',
     'corsheaders',
-    'octofit_backend',
+    'octofit_backend',  # Ensure this matches the app directory name
 ]
 
 MIDDLEWARE = [
